@@ -1,6 +1,8 @@
 # fallout_3_computer_hacking
 solves passwords required to get into computers in Fallout 3 / NV
 
+Requires Python 3, and your favourite IDE (eg. IDLE) or a terminal. 
+
 F5 to run, Crtl-C to cancel or close
 
 Example: given words "one", "two", "six"
